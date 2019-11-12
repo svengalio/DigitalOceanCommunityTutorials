@@ -1,0 +1,11 @@
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\bin\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.deps.json
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\bin\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.runtimeconfig.json
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\bin\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.runtimeconfig.dev.json
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\bin\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.dll
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\bin\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.pdb
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\obj\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.csproj.CoreCompileInputs.cache
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\obj\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.AssemblyInfoInputs.cache
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\obj\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.AssemblyInfo.cs
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\obj\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.dll
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\obj\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.pdb
+C:\Users\leemae01\Source\Repos\DigitalOceanCommunityTutorials\DigitalOceanCommunityTutorials\obj\Debug\netcoreapp2.1\DigitalOceanCommunityTutorials.csprojAssemblyReference.cache
